@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Neosynth</title>
+    <description>Cyberpunk, technology, storytelling</description>
+    <link>https://neosynth.net/</link>
+    <language>en</language>
+    <generator>bash</generator>
+    <image>
+      <url>https://neosynth.net/config/favicon/android-chrome-192x192.png</url>
+      <title>Neosynth</title>
+      <link>https://neosynth.net</link>
+    </image>
+    <atom:link href="https://neosynth.net/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Sun, 03 Oct 2021 18:31:28 +0000</lastBuildDate>
+        <ttl>60</ttl>
+<item>
+<title>The Fallout 4 That Could Have Been</title>
+<dc:creator>Neon</dc:creator>
+<description>It's not the classic music or the quirky fifties costumes that make Fallout so memorable.</description>
+<link>https://neosynth.net/posts/fallout-4-that-could-have-been/index.html</link>
+<pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Remember the Time</title>
+<dc:creator>Neon</dc:creator>
+<description>Something strange hit me... I don't know you anymore.</description>
+<link>https://neosynth.net/fiction/remember-the-time/index.html</link>
+<pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive</title>
+<dc:creator>Neon</dc:creator>
+<description>The truth was out there, right in front of her eyes.</description>
+<link>https://neosynth.net/fiction/the-zeta-directive/index.html</link>
+<pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 2]</title>
+<dc:creator>Neon</dc:creator>
+<description>A diplomat's daughter is entangled in an international conspiracy that runs lightyears deeper than she ever could have imagined.</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-2/index.html</link>
+<pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 3]</title>
+<dc:creator>Neon</dc:creator>
+<description>The crackle of metal being sliced open with superheated plasma was audible even from the other side of the airlock door, followed by a loud metallic clatter and then silence.</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-3/index.html</link>
+<pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 4]</title>
+<dc:creator>Neon</dc:creator>
+<description>Neon gridden lines converged from the periphery of Fiir's vision, creating a wireframe rendition of the room that she occupied....</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-4/index.html</link>
+<pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 5]</title>
+<dc:creator>Neon</dc:creator>
+<description>Colossal ivory-white high-rise towers sprawled in all directions, glistening in the sunlight as a monument to a breathtaking antediluvian metropolis.</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-5/index.html</link>
+<pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 10]</title>
+<dc:creator>Neon</dc:creator>
+<description>Josh panned and zoomed the camera to get a better look at the ominous disk-shaped vessel. Smoke billowed from the craft, obscuring it near completely on the optical spectrum...</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-10/index.html</link>
+<pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 6]</title>
+<dc:creator>Neon</dc:creator>
+<description>Fiir's confrontation with the Terran girl had left her with much to think about. The young primate was both a curiosity and a complication. A deeply frustrating one, at that.</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-6/index.html</link>
+<pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Close Encounters</title>
+<dc:creator>Neon</dc:creator>
+<description>It was a maze of tunnels and hallways down here, dimly lit and dread-inducing. The flashlight attachment on my rifle was my one light in the darkness...</description>
+<link>https://neosynth.net/fiction/close-encounters/index.html</link>
+<pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Alaja Writing: A Linguistic Overview</title>
+<dc:creator>Neon</dc:creator>
+<description>A discussion of the writing system used in &quot;lekis kojfo&quot;, a fictional language spoken in the scifi universe of The Zeta Directive.</description>
+<link>https://neosynth.net/posts/alaja-writing-lekis-kojfo/index.html</link>
+<pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 7]</title>
+<dc:creator>Neon</dc:creator>
+<description>The bridge of the ship felt more like a space-age information bunker than a control centre for piloting a cutting-edge starship...</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-7/index.html</link>
+<pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 8]</title>
+<dc:creator>Neon</dc:creator>
+<description>In time, her broken heart would heal stronger than it had ever been before, readjusting to her newfound reality.</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-8/index.html</link>
+<pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 9][Interlude]</title>
+<dc:creator>Neon</dc:creator>
+<description>Sometimes she liked to think about who might have lived in all these old buildings that the Peacekeepers ordered them to tear apart. The empty towering ivory skyscrapers had a heavenly radiance to them in the brilliant white light of the Kojfo sun.</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-9/index.html</link>
+<pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Copyright: The Death of Tomorrow</title>
+<dc:creator>Neon</dc:creator>
+<description>We can come together to build a better world for the artists and historians of tomorrow by protecting their right to do what they can with the ideas we create today.</description>
+<link>https://neosynth.net/posts/copyright-the-death-of-tomorrow/index.html</link>
+<pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 11]</title>
+<dc:creator>Neon</dc:creator>
+<description>Josh gritted his teeth. &quot;Fuck you, ma'am.&quot;</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-11/index.html</link>
+<pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Dreamer</title>
+<dc:creator>Neon</dc:creator>
+<description>A shining star in the darkness, some glimpses of the light are lost into eternity, only to be known by the gods themselves...</description>
+<link>https://neosynth.net/fiction/the-dreamer/index.html</link>
+<pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>A New Neosynth</title>
+<dc:creator>Neon</dc:creator>
+<description>What's old is new again: the story of the Neosynth site redesign</description>
+<link>https://neosynth.net/posts/new-neosynth/index.html</link>
+<pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Veiled Maiden</title>
+<dc:creator>Neon</dc:creator>
+<description>She smiled back to me supportively with an enthusiastic pearlescent glow in her captivating cerulean eyes. &quot;Prithee, it lights my soul to see your invention shapen before me, my lady.&quot;</description>
+<link>https://neosynth.net/fiction/the-veiled-maiden/index.html</link>
+<pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Digital Citizen</title>
+<dc:creator>Neon</dc:creator>
+<description>The digital revolution and its consequences have been a kind of new enlightenment for human society.</description>
+<link>https://neosynth.net/posts/the-digital-citizen/index.html</link>
+<pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Zeta Directive [Section 12]</title>
+<dc:creator>Neon</dc:creator>
+<description>Josh took his face into his hands and wept. Earth was still ruled by those slimy alien bastards, and no one would ever even *believe* him, much less do anything about it.</description>
+<link>https://neosynth.net/fiction/the-zeta-directive-section-12/index.html</link>
+<pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Spin the Record</title>
+<dc:creator>Neon</dc:creator>
+<description>Call me DJ. The full name's kind of a mouthful.</description>
+<link>https://neosynth.net/fiction/spin-the-record/index.html</link>
+<pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Vox Pænitentia</title>
+<dc:creator>Neon</dc:creator>
+<description>The cutting-edge industrialists of today had departed, entrusting the world of tomorrow to the skeletons left in their closet.</description>
+<link>https://neosynth.net/fiction/vox-paenitentia/index.html</link>
+<pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+</item>
+  </channel>
+</rss>
