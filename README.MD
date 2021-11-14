@@ -32,7 +32,7 @@ This repository contains several folders. I'll walk you through what each of the
 - `tools`: This folder contains some bash scripts to help out with SEO.
  - `rsshelper.sh`: This script adds new sites to your rss feed. Make sure to edit the script options as described in the file comments. This script takes a live site URL as an argument, so you probably want to launch a local container of your site, run this script against your new page, then commit the updated rss file to your repository.
   - *Note: At some point I want to refactor this code to work without any arguments so that it is less fiddly and makes a one-click RSS feed*.
- - `sitemapper.sh`: This script builds a sitemap.xml of your site. Make sure to edit the script options as described in the file comments. Paths within your site's `config` diectory are excluded from the sitemap since that path is not intended to be traversable on its own.
+ - `sitemapper.sh`: This script builds a sitemap.xml of your site. Make sure to edit the script options as described in the file comments. Paths within your site's `config` directory are excluded from the sitemap since that path is not intended to be traversable on its own.
 
 ### Build
 
