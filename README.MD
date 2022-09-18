@@ -1,3 +1,8 @@
+# NOTE: This tool has been deprecated in favour of [Arise](https://github.com/spectrasecure/arise). No further updates will be pushed to this repo.
+
+---
+---
+
 # WebmasterCMS - The CMS for Webmasters - Docker
 *Lets you have a whale of a time building your website!*
 
